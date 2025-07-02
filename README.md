@@ -3,6 +3,7 @@
 📊 Sales Dashboard (Power BI)
 
 🧾 Project Overview
+
 This interactive Sales Dashboard is developed using Power BI to analyze and visualize key sales metrics across different countries, months, and product categories. The dashboard helps users identify sales trends, regional performance, and overall growth insights.
 
 🔧 Tools & Technologies Used
